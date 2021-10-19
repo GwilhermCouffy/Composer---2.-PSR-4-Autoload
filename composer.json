@@ -1,0 +1,16 @@
+{
+    "name": "gwilh/composer",
+    "description": "quete composer",
+    "autoload": {
+        "psr-4": {
+            "Gwilh\\Composer\\": "src/Wsc"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gwilherm Couffy",
+            "email": "gwilherm-couffy_student2021@wilder.school"
+        }
+    ],
+    "require": {}
+}
