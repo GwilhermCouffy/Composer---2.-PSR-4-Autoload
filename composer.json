@@ -3,7 +3,7 @@
     "description": "quete composer",
     "autoload": {
         "psr-4": {
-            "Gwilh\\Composer\\": "src/Wsc"
+            "App\\": "src/Wcs"
         }
     },
     "authors": [
